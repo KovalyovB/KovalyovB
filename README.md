@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет!
 
-<!--
-**KovalyovB/KovalyovB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Engineer с 5+ летним опытом.** Специализируюсь на интеграционном тестировании, сейчас активно развиваюсь в автоматизации на Java.
 
-Here are some ideas to get you started:
+## 🔭 Чем я занимаюсь
+- Пишу автотесты на **Java**: UI — **Selenide**, API — **RestAssured**.
+- Настраиваю **CI/CD** для тестов: запуск в **Jenkins**, отчёты в **Allure**.
+- Из ручного опыта приоритет — **интеграционному тестированию** (связки сервисов, API + БД, сквозные сценарии).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Что изучаю и практикую сейчас
+- Построение пайплайнов в **Jenkins** (Allure-отчёты, ретраи, нотификации).
+- Углубляю Java и паттерны проектирования автотестов (PageObject, Builder, фабрики).
+- **Best practices UI (Selenide)**: надёжные локаторы, явные ожидания, отказ от `sleep`, стабильные компоненты.
+- **Best practices API (RestAssured)**: переиспользуемые спецификации, валидация схем, изоляция тестовых данных, читаемые проверки.
+
+## 🧰 Мой стек и инструменты
+![Java](https://img.shields.io/badge/Java-Automation-orange)
+![Selenide](https://img.shields.io/badge/Selenide-UI_Testing-green)
+![RestAssured](https://img.shields.io/badge/RestAssured-API_Testing-blue)
+![Allure](https://img.shields.io/badge/Allure_Reports-TestOps-yellow)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+![Manual QA](https://img.shields.io/badge/Manual_QA-5_years-lightgrey)
